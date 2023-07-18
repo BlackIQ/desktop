@@ -1,6 +1,6 @@
 # Desktop Wallpaper Changer
 
-As I hate default windows wallpapers, and don't have a good taste in choosing desktop wallpapers, I create a simple tiny script.
+As I hate default windows wallpapers, and don't have a good taste in choosing desktop wallpapers, I create a simple tiny tiny script.
 
 ## About
 
